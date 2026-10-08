@@ -8,11 +8,9 @@ PhD student in Applied Statistics (Data Science concentration) at Baylor Univers
 
 ## What I work with
 
-| | |
-|---|---|
-| **Statistics** | Bayesian hierarchical models, simulation studies and power analysis, spatial and spatio-temporal models, time series, generalised additive models |
-| **Machine learning** | Classification with tidymodels, class-imbalance methods, GANs and U-Nets in PyTorch |
-| **Tools** | R (tidyverse, ggplot2, tidymodels, Quarto), Stan with CmdStanR, Python (PyTorch), Git |
+- **Statistics:** Bayesian hierarchical models, simulation studies and power analysis, spatial and spatio-temporal models, time series, generalised additive models
+- **Machine learning:** classification with tidymodels, class-imbalance methods, GANs and U-Nets in PyTorch
+- **Tools:** R (tidyverse, ggplot2, tidymodels, Quarto), Stan with CmdStanR, Python (PyTorch), Git
 
 ## Selected projects
 
